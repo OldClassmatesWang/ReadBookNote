@@ -1,2 +1,6 @@
 # ReadBookNote
-A note for my readBook
+一个用于记录我个人读书笔记的仓库
+
+目录：
+
+1. 《计算机是怎样跑起来的？》
